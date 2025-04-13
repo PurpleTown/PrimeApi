@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrimeApi">
+    <output-path>$USER_HOME$/Desktop/Сервера для разработки/1.19.4/plugins</output-path>
+    <root id="archive" name="PrimeApi.jar">
+      <element id="module-output" name="NewPrimeApi" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kohsuke/github-api/1.321/github-api-1.321.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.15.0/commons-lang3-3.15.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
